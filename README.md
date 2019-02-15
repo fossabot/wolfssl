@@ -1,4 +1,6 @@
 # Description
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FProsp3r0%2Fwolfssl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FProsp3r0%2Fwolfssl?ref=badge_shield)
+
 
 The wolfSSL embedded SSL library (formerly CyaSSL) is a lightweight SSL/TLS library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments - primarily because of its small size, speed, and feature set.  It is commonly used in standard operating environments as well because of its royalty-free pricing and excellent cross platform support.  wolfSSL supports industry standards up to the current TLS 1.3 and DTLS 1.3 levels, is up to 20 times smaller than OpenSSL, and offers progressive ciphers such as ChaCha20, Curve25519, NTRU, and Blake2b.  User benchmarking and feedback reports dramatically better performance when using wolfSSL over OpenSSL.
 
@@ -110,3 +112,7 @@ More info can be found on-line at http://wolfssl.com/wolfSSL/Docs.html
 [wolfCrypt API Reference](https://wolfssl.com/wolfSSL/Docs-wolfssl-manual-18-wolfcrypt-api-reference.html)
 
 [TLS 1.3](https://www.wolfssl.com/docs/tls13/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FProsp3r0%2Fwolfssl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FProsp3r0%2Fwolfssl?ref=badge_large)
